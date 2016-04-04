@@ -1,0 +1,11 @@
+data/
+data
+datasets
+bin
+external/caffe_LocNet
+external/edges
+external/selective_search
+external/pdollar-toolbox
+cached_regions/
+models-exps
+*~

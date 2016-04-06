@@ -20,9 +20,9 @@ If you find LocNet useful in your research, please consider citing:
 
 > @inproceedings{gidaris2015locnet,  
   title={LocNet: Improving Localization Accuracy for Object Detection},  
-  author={Gidaris, Spyros and Komodakis, Nikos},  
-  booktitle={Computer Vision and Pattern Recognition (CVPR), 2016 IEEE Conference on},
-  year={2016}
+  author={Gidaris, Spyros and Komodakis, Nikos},   
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2016 IEEE Conference on},  
+  year={2016}  
 }  
 
 ### License

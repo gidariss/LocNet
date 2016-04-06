@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This code implements the following CVPR 2016 paper:    
+This code implements the following CVPR 2016 paper (accepted for oral presentation):    
 **Title:**      "LocNet: Improving Localization Accuracy for Object Detection"    
 **Authors:**     Spyros Gidaris, Nikos Komodakis    
 **Institution:** Universite Paris Est, Ecole des Ponts ParisTech    

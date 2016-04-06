@@ -18,11 +18,11 @@ For implementing our localization model, we make use of a convolutional neural n
 
 If you find LocNet useful in your research, please consider citing:   
 
-> @article{gidaris2015locnet,  
+> @inproceedings{gidaris2015locnet,  
   title={LocNet: Improving Localization Accuracy for Object Detection},  
   author={Gidaris, Spyros and Komodakis, Nikos},  
-  journal={arXiv preprint arXiv:1511.07763},  
-  year={2015}  
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2016 IEEE Conference on},
+  year={2016}
 }  
 
 ### License

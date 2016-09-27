@@ -87,8 +87,8 @@ num_iterations = 4;
 % maximum number of regions/bboxes that can be given in one go in the 
 % caffe networks such that everything can fit in the GPU memory; 
 % For a GPU with 6 Gbytes memory:
-model_obj_rec_max_rois_num_in_gpu = 500; 
-model_obj_loc_max_rois_num_in_gpu = 400; 
+model_obj_rec_max_rois_num_in_gpu = 200; 
+model_obj_loc_max_rois_num_in_gpu = 200; 
 %**************************************************************************
 
 %***************************** LOAD MODELS ********************************

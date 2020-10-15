@@ -1,4 +1,4 @@
-## *LocNet: Improving Localization Accuracy for Object Detection*
+## *LocNet: Improving Localization Accuracy for Object Detection* -An amazing project
 
 ### Introduction
 
@@ -243,6 +243,9 @@ The above command will train a LocNet In-Out localization model in the union of 
 of which the directory name is the string that is given as 1st input argument in the script `script_train_LocNet_PASCAL`. For more instructions on how to train your own LocNet localization models see the script:
    ```Shell
     $LocNet/code/script_train_localization_models_commands.m
+    
+    This is a demonstration purpose project, you can also implement it for real world scenarios.
+Thanks and regards.
    ```
    
 **Note:** for training each of the LocNet models you will require a GPU with at least 6 Gbytes of memory.
